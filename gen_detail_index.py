@@ -42,7 +42,7 @@ with tag('html'):
             with tag('div', ('class', 'page-header-detail')):
                 with tag('a', href = '../index.html'):
                     with tag('h1'):
-                        text('NDM')
+                        text('ndm')
             # text and media columns
             with tag('div', ('class', 'page-main')):
                 with tag('div', ('class', 'detailcolumns')):
